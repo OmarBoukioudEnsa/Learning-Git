@@ -1,1 +1,1 @@
-;wq
+console.log("hello word");
